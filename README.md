@@ -51,11 +51,9 @@ The full list of dependencies is available in the `build.gradle` file.
 
 ## 📸 Application Screenshots
 
-| ![Screen 1](images/1.png) | ![Screen 2](images/2.png) |
-|---------------------------|---------------------------|
-| ![Screen 3](images/3.png) | ![Screen 4](images/4.png) |
-| ![Screen 5](images/5.png) | ![Screen 6](images/6.png) |
-| ![Screen 7](images/7.png) | ![Screen 8](images/8.png) |
+| ![Screen 1](images/1.png) | ![Screen 2](images/2.png) | ![Screen 3](images/3.png) | ![Screen 4](images/4.png) |
+|---------------------------|---------------------------|---------------------------|---------------------------|
+| ![Screen 5](images/5.png) | ![Screen 6](images/6.png) | ![Screen 7](images/7.png) | ![Screen 8](images/8.png) |
 
 ---
 
